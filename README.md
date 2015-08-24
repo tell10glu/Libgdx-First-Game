@@ -1,5 +1,8 @@
 # Libgdx-First-Game
 I wanted to try libgdx library on Android.
+Description of game :
+Random created shurikens follow the main character. Physics engine not included in this project.
+
 Here is first project that includes following topics:
 
 0. Touchpad
